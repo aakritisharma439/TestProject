@@ -5,7 +5,11 @@ Implements AJAX-based form submission for a seamless user experience.
 
 Features
 ✅ Laravel MVC Structure – Uses models, migrations, and controllers for better code organization.
+
 ✅ AJAX-based Form Submission – No page refresh required for submitting data.
+
 ✅ Frontend & Backend Validation – Ensures correct data format before storing it in the database.
+
 ✅ API Integration – Uses Laravel API routes to handle form submissions and data storage.
+
 ✅ Commented Code – Includes detailed comments for better understanding and maintainability.
